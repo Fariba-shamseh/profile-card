@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container{
+  width: 805px;
+  height: 1200px;
+  border: 2px solid #edb588;
+  background-color: #f6e7da;
+}
+p {
+  text-align: justify;
+  line-height: 1.6;
+  margin: 20px 0;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  word-spacing: 2px;
+  direction: ltr;
+}
